@@ -6,7 +6,7 @@
                 <div class="full center">
                     <h2 class="heading_main orange_heading">Testimonials</h2>
                 </div>
-            </div>
+            </div>s
         </div>
         <div class="row">
             <div class="col-md-12">
